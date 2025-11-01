@@ -1,6 +1,6 @@
 # ASUS-PRIME-B365M-K-A-C-
 
-ASUS-PRIME B365M-K-A-C 主板黑苹果支持的系统 Mac 11----26.1
+ASUS-PRIME B365M-K-A-C 主板黑苹果
 
 支持全系列CPU型号，I5-9400、i9-9980HK、i7-9750H、i5-9300H等等
 
@@ -26,7 +26,7 @@ cpu： 英特尔 i5 9400
 
 无线网卡：ntel AX210
 
-ASUS-PRIME-B365M-K/A/C系列主板 MacOS 15.7 完善程度：
+ASUS-PRIME-B365M-K/A/C系列主板 MacOS 13/14/15/26.1 完善程度：
 
 CPU正常睿频（i5/i7/i9/等等）
 
